@@ -1,0 +1,11 @@
+*.[o]
+transfer_linux/.cproject
+transfer_linux/.project
+transfer_linux/.settings/
+core*
+transfer_linux/transfer_vc/Debug/*
+*.[obj]
+*.[plg]
+*.[ncb]
+*.[opt]
+*.[suo]

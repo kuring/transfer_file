@@ -1,0 +1,3 @@
+Windows版本的程序基本跟Linux程序类似，仅仅更换了系统调用API。
+
+该工程在VC6和Windows 2008下经测试可以正常运行。其中工程文件放在了transfer_vc目录中。
